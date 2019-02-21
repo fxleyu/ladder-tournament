@@ -10,7 +10,7 @@
 ### Java
 - Java 基础
 - Java 并发
-- JVM
+- [JVM](https://github.com/fxleyu/ladder-tournament/wiki/JVM)
 
 ### Java Web
 - 深入理解 Session 与 Cookie
