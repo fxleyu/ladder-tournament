@@ -11,6 +11,7 @@
 - Java 基础
 - Java 并发
 - [JVM](https://github.com/fxleyu/ladder-tournament/wiki/JVM)
+  - [垃圾收集(Garbage Collection, GC)](https://github.com/fxleyu/ladder-tournament/wiki/GC)
 
 ### Java Web
 - 深入理解 Session 与 Cookie
