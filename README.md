@@ -21,12 +21,6 @@
 - 深入理解 Session 与 Cookie
 
 
-
-# 春节假期任务
-- Spring 相关
-- Java Web 相关
-
-
 ## 技术
 ### 基础
 - [跟阿铭学Linux](https://book.douban.com/subject/26005630/)
