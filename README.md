@@ -6,7 +6,7 @@
 - 操作系统
 - 组成原理
 ## 数学
-- 具体数学
+- [具体数学](https://github.com/fxleyu/ladder-tournament/wiki/ConcreteMathematics)
 
 ### Java
 - Java 基础
