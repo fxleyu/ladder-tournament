@@ -5,8 +5,14 @@
 - 计算机网络
 - 操作系统
 - 组成原理
+
 ## 数学
 - [具体数学](https://github.com/fxleyu/ladder-tournament/wiki/ConcreteMathematics)
+
+## 算法
+- [计算机程序设计艺术 卷1：基本算法（第3版）](https://book.douban.com/subject/26681685/)
+- [计算机程序设计艺术 卷2：半数值算法（第3版）](https://book.douban.com/subject/26850558/)
+- [计算机程序设计艺术 卷3：排序与查找（第2版）](https://book.douban.com/subject/26953756/)
 
 ### Java
 - Java 基础
@@ -48,9 +54,5 @@
 ### 分布式
 - [从 Paxos 到 Zookeeper](https://github.com/fxleyu/west-world/issues/92)
 - [Redis 实战](https://github.com/fxleyu/west-world/issues/13)
-- [深入 RabbitMQ]
+- 深入 RabbitMQ
 
-### 需要啃的 
-- [计算机程序设计艺术 卷1：基本算法（第3版）](https://book.douban.com/subject/26681685/)
-- [计算机程序设计艺术 卷2：半数值算法（第3版）](https://book.douban.com/subject/26850558/)
-- [计算机程序设计艺术 卷3：排序与查找（第2版）](https://book.douban.com/subject/26953756/)
