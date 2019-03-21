@@ -57,3 +57,6 @@
 - [Redis 实战](https://github.com/fxleyu/west-world/issues/13)
 - 深入 RabbitMQ
 
+
+# 参考
+- https://github.com/fxleyu/ladder-tournament/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E4%B8%93%E4%B8%9A%EF%BC%88%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%9E%E9%AA%8C%E7%8F%AD%EF%BC%89.pdf
