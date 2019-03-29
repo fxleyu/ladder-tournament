@@ -5,6 +5,8 @@
 - 计算机网络
 - 操作系统
 - 组成原理
+- 编译原理
+- 软件工程
 
 ## 数学
 - [具体数学](https://github.com/fxleyu/ladder-tournament/wiki/ConcreteMathematics)
