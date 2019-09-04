@@ -10,6 +10,7 @@
 - 数据库原理
 - 数据加密
 - 软件工程
+- 分布式系统
 
 ## 数学
 - [具体数学](https://github.com/fxleyu/ladder-tournament/wiki/ConcreteMathematics)
