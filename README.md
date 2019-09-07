@@ -15,11 +15,6 @@
 ## 数学
 - [具体数学](https://github.com/fxleyu/ladder-tournament/wiki/ConcreteMathematics)
 
-## 算法
-- [计算机程序设计艺术 卷1：基本算法（第3版）](https://book.douban.com/subject/26681685/)
-- [计算机程序设计艺术 卷2：半数值算法（第3版）](https://book.douban.com/subject/26850558/)
-- [计算机程序设计艺术 卷3：排序与查找（第2版）](https://book.douban.com/subject/26953756/)
-
 ### Java
 - Java 基础
 - Java 并发
@@ -29,10 +24,6 @@
   - 类加载
   - 内存模型
   - 线程安全
-
-### Java Web
-- 深入理解 Session 与 Cookie
-
 
 ## 技术
 ### 基础
