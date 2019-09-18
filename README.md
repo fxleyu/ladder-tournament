@@ -12,6 +12,11 @@
 - 软件工程
 - 分布式系统
 
+## 非技术类
+- 交流能力
+- 写作能力
+- 事务处理能力
+
 ## 数学
 - [具体数学](https://github.com/fxleyu/ladder-tournament/wiki/ConcreteMathematics)
 
