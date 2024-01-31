@@ -57,6 +57,8 @@
 - [人月神话]
 - [软技能]
 
+- 沟通
+
 ### 分布式
 - [从 Paxos 到 Zookeeper](https://github.com/fxleyu/west-world/issues/92)
 - [Redis 实战](https://github.com/fxleyu/west-world/issues/13)
